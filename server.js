@@ -10,6 +10,7 @@ const posts = require('./routes/api/posts');
 
 const app = express();
 const port = process.env.PORT || 5000;
+const portENV = process.env.NODE_ENV;
 
 
 // Body parser middleware
@@ -37,7 +38,7 @@ app.use('/api/profile', profile);
 app.use('/api/posts', posts);
 
 // Server static assets if in production
-if (port === 'production') {
+if (portENV === 'production') {
     // Set static folder
     // app.use(express.static('./client/build'));
     app.use(express.static(path.join(__dirname, "client", "build")));
