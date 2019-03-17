@@ -11,7 +11,7 @@ class Experience extends Component {
     }
 
     render() {
-        if (this.props.experience.length > 0) {
+        if (this.props.experience) {
             const experience = this.props.experience.map(exp => (
                 <tr key={exp._id}>
                     <td>{exp.company}</td>
