@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import React, {Component} from 'react';
+import {Link} from 'react-router-dom';
 import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
-import { getCurrentProfile, deleteAccount } from '../../actions/profileActions';
+import {connect} from 'react-redux';
+import {getCurrentProfile, deleteAccount} from '../../actions/profileActions';
 import Spinner from '../common/Spinner';
 import ProfileActions from './ProfileActions';
 import Experience from './Experience';
@@ -13,18 +13,19 @@ class Dashboard extends Component {
         this.props.getCurrentProfile();
     }
 
+
     onDeleteClick(e) {
         this.props.deleteAccount();
     }
 
     render() {
-        const { user } = this.props.auth;
-        const { profile, loading } = this.props.profile;
+        const {user} = this.props.auth;
+        const {profile, loading} = this.props.profile;
 
         let dashboardContent;
 
         if (profile === null || loading) {
-            dashboardContent = <Spinner />;
+            dashboardContent = <Spinner/>;
         } else {
             // Check if logged in user has profile data
             if (Object.keys(profile).length > 0) {
@@ -33,10 +34,10 @@ class Dashboard extends Component {
                         <p className="lead text-muted">
                             Welcome <Link to={`/profile/${profile.handle}`}>{user.name}</Link>
                         </p>
-                        <ProfileActions />
-                        <Experience experience={profile.experience} />
-                        <Education education={profile.education} />
-                        <div style={{ marginBottom: '60px' }} />
+                        <ProfileActions/>
+                        <Experience experience={profile.experience}/>
+                        <Education education={profile.education}/>
+                        <div style={{marginBottom: '60px'}}/>
                         <button
                             onClick={this.onDeleteClick.bind(this)}
                             className="btn btn-danger"
@@ -86,6 +87,6 @@ const mapStateToProps = state => ({
     auth: state.auth
 });
 
-export default connect(mapStateToProps, { getCurrentProfile, deleteAccount })(
+export default connect(mapStateToProps, {getCurrentProfile, deleteAccount})(
     Dashboard
 );
