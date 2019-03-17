@@ -1,107 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/acorn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/acorn.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/ansi-html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/ansi-html.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/atob" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/atob.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/autoprefixer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/autoprefixer.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/babylon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/babylon.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/browserslist.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/cssesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/cssesc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/detect" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/detect-port" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/detect-port.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/detect.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/errno" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/errno.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/escodegen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/escodegen.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esgenerate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esgenerate.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/eslint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/eslint.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esparse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esparse.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esvalidate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/esvalidate.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/handlebars" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/handlebars.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/he" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/he.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/html-minifier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/html-minifier.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/import-local-fixture" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/import-local-fixture.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/is-ci" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/is-ci.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jest-runtime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jest-runtime.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jest.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/js-yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/js-yaml.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jsesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jsesc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/json5.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/loose-envify" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/loose-envify.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/miller-rabin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/miller-rabin.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/mime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/mime.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/mkdirp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/mkdirp.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/multicast-dns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/multicast-dns.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/parser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/parser.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/prettier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/prettier.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/react-scripts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/react-scripts.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/regjsparser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/regjsparser.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/rimraf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/rimraf.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sane.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/semver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sha.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sha.js.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-conv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-conv.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-sign" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-sign.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-verify" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/sshpk-verify.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/svgo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/svgo.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/terser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/terser.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/uglifyjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/uglifyjs.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/uuid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/uuid.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/watch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/watch.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/webpack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/webpack-dev-server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/webpack-dev-server.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/webpack.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/which" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/which.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -454,11 +354,6 @@
               <item name="MERN App" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
-            <path>
-              <item name="MERN App" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="client" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -590,12 +485,12 @@
       <workItem from="1541768963921" duration="130000" />
       <workItem from="1552238756355" duration="17436000" />
       <workItem from="1552568930148" duration="28776000" />
-      <workItem from="1552811687435" duration="752000" />
+      <workItem from="1552811687435" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201559000" />
+    <option name="totallyTimeSpent" value="202128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,9 +503,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948508" visible="true" weight="0.21268657" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49948508" visible="true" weight="0.21268657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -626,7 +520,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info anchor="bottom" x="-44" y="121" width="1366" height="715" id="Terminal" order="12" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.24081632" />
+      <window_info active="true" anchor="bottom" x="-44" y="121" width="1366" height="715" id="Terminal" order="12" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.24081632" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
