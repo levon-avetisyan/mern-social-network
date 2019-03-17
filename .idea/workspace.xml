@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="" />
+    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/dashboard/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/dashboard/Experience.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
           <entry key="gitignore" value="2" />
           <entry key="html" value="5" />
           <entry key="ico" value="1" />
-          <entry key="js" value="299" />
+          <entry key="js" value="300" />
           <entry key="json" value="24" />
           <entry key="ts" value="1" />
         </counts>
@@ -60,7 +63,7 @@
           <entry key="HTML" value="5" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="24" />
-          <entry key="JavaScript" value="299" />
+          <entry key="JavaScript" value="300" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -70,7 +73,7 @@
           <entry key="css" value="117" />
           <entry key="gitignore" value="59" />
           <entry key="html" value="89" />
-          <entry key="js" value="42788" />
+          <entry key="js" value="42870" />
           <entry key="json" value="400" />
           <entry key="ts" value="3" />
         </counts>
@@ -80,7 +83,7 @@
           <entry key="CSS" value="117" />
           <entry key="HTML" value="89" />
           <entry key="JSON" value="400" />
-          <entry key="JavaScript" value="42788" />
+          <entry key="JavaScript" value="42870" />
           <entry key="PLAIN_TEXT" value="59" />
           <entry key="TypeScript" value="3" />
         </counts>
@@ -107,7 +110,19 @@
         <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/Experience.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/Education.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -523,12 +538,12 @@
       <workItem from="1541768963921" duration="130000" />
       <workItem from="1552238756355" duration="17436000" />
       <workItem from="1552568930148" duration="28776000" />
-      <workItem from="1552811687435" duration="8252000" />
+      <workItem from="1552811687435" duration="8590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209059000" />
+    <option name="totallyTimeSpent" value="209397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,13 +613,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/Education.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/actions/authActions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -897,6 +905,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,10 +1028,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/Education.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/components/dashboard/Experience.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
