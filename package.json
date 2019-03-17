@@ -1,9 +1,6 @@
 {
   "name": "devconnector",
   "version": "1.0.0",
-  "engines": {
-    "node": "10.14.1"
-  },
   "description": "Social network for developers",
   "main": "server.js",
   "scripts": {
@@ -12,25 +9,24 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
+    "heroku-postbuild":
+    "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Levon Avetisyan",
+  "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.3",
-    "concurrently": "^4.0.1",
+    "body-parser": "^1.18.2",
+    "concurrently": "^3.5.1",
     "express": "^4.16.3",
     "gravatar": "^1.6.0",
-    "jsonwebtoken": "^8.3.0",
-    "moment": "^2.22.2",
-    "mongoose": "^5.3.1",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.12",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "react-moment": "^0.8.2",
-    "validator": "^10.8.0"
+    "validator": "^9.4.1"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.17.3"
   }
 }
