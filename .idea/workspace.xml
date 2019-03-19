@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MERN App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MERN App.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/profileActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/profileActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/post/CommentItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/post/CommentItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/profile/ProfileHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/profile/ProfileHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="cb81fd6b-d3ae-46c4-8fab-263f964f64b9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,186 +95,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/api/profile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-              <folding>
-                <element signature="e#508#540#0" />
-                <element signature="e#664#691#0" />
-                <element signature="e#843#1293#0" />
-                <element signature="e#999#1232#0" />
-                <element signature="e#1031#1183#0" />
-                <element signature="e#1298#1329#0" />
-                <element signature="e#1411#1814#0" />
-                <element signature="e#1528#1728#0" />
-                <element signature="e#1557#1685#0" />
-                <element signature="e#1818#1860#0" />
-                <element signature="e#1959#2363#0" />
-                <element signature="e#2107#2310#0" />
-                <element signature="e#2135#2268#0" />
-                <element signature="e#2367#2408#0" />
-                <element signature="e#2507#2976#0" />
-                <element signature="e#2654#2857#0" />
-                <element signature="e#2682#2815#0" />
-                <element signature="e#2980#3008#0" />
-                <element signature="e#3163#5510#0" />
-                <element signature="e#3284#3393#0" />
-                <element signature="e#4104#4178#0" />
-                <element signature="e#4704#5502#0" />
-                <element signature="e#4731#4990#0" />
-                <element signature="e#4996#5492#0" />
-                <element signature="e#5149#5476#0" />
-                <element signature="e#5184#5331#0" />
-                <element signature="e#5515#5554#0" />
-                <element signature="e#5717#6513#0" />
-                <element signature="e#5841#5950#0" />
-                <element signature="e#6015#6505#0" />
-                <element signature="e#6044#6349#0" />
-                <element signature="e#6518#6556#0" />
-                <element signature="e#6717#7519#0" />
-                <element signature="e#6840#6949#0" />
-                <element signature="e#7014#7511#0" />
-                <element signature="e#7043#7356#0" />
-                <element signature="e#7524#7573#0" />
-                <element signature="e#7751#8278#0" />
-                <element signature="e#7829#8217#0" />
-                <element signature="e#8283#8331#0" />
-                <element signature="e#8507#9032#0" />
-                <element signature="e#8585#8971#0" />
-                <element signature="e#9037#9067#0" />
-                <element signature="e#9220#9434#0" />
-                <element signature="e#9289#9426#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/Profile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
-              <folding>
-                <element signature="e#133#198#0" />
-                <element signature="e#212#281#0" />
-                <element signature="e#296#324#0" />
-                <element signature="e#339#367#0" />
-                <element signature="e#383#411#0" />
-                <element signature="e#425#477#0" />
-                <element signature="e#491#545#0" />
-                <element signature="e#556#608#0" />
-                <element signature="e#630#658#0" />
-                <element signature="e#676#1259#0" />
-                <element signature="e#686#1253#0" />
-                <element signature="e#707#783#0" />
-                <element signature="e#806#882#0" />
-                <element signature="e#906#950#0" />
-                <element signature="e#970#1012#0" />
-                <element signature="e#1030#1072#0" />
-                <element signature="e#1095#1172#0" />
-                <element signature="e#1199#1243#0" />
-                <element signature="e#1276#1895#0" />
-                <element signature="e#1286#1889#0" />
-                <element signature="e#1308#1384#0" />
-                <element signature="e#1406#1482#0" />
-                <element signature="e#1510#1586#0" />
-                <element signature="e#1606#1648#0" />
-                <element signature="e#1666#1708#0" />
-                <element signature="e#1731#1808#0" />
-                <element signature="e#1835#1879#0" />
-                <element signature="e#1909#2195#0" />
-                <element signature="e#1928#1964#0" />
-                <element signature="e#1983#2019#0" />
-                <element signature="e#2039#2075#0" />
-                <element signature="e#2095#2131#0" />
-                <element signature="e#2152#2188#0" />
-                <element signature="e#2207#2260#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2240">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/actions/profileActions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3340">
-              <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/keys.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/actions/postActions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/actions/authActions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-920">
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/layout/Navbar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/actions/types.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/components/profiles/Profiles.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -733,12 +542,12 @@
       <workItem from="1552568930148" duration="28776000" />
       <workItem from="1552811687435" duration="13564000" />
       <workItem from="1552827439387" duration="4706000" />
-      <workItem from="1552972430880" duration="2726000" />
+      <workItem from="1552972430880" duration="3814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221803000" />
+    <option name="totallyTimeSpent" value="222891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -751,9 +560,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948508" visible="true" weight="0.19591528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49948508" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -763,7 +571,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" x="-44" y="121" width="1366" height="715" id="Terminal" order="6" sideWeight="0.50226927" visible="true" weight="0.1751497" />
+      <window_info active="true" anchor="bottom" x="-44" y="121" width="1366" height="715" id="Terminal" order="6" sideWeight="0.50226927" visible="true" weight="0.41017964" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32955715" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -1189,6 +997,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/keys.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/actions/profileActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3340">
+          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+          <folding>
+            <element signature="e#133#198#0" />
+            <element signature="e#212#281#0" />
+            <element signature="e#296#324#0" />
+            <element signature="e#339#367#0" />
+            <element signature="e#383#411#0" />
+            <element signature="e#425#477#0" />
+            <element signature="e#491#545#0" />
+            <element signature="e#556#608#0" />
+            <element signature="e#630#658#0" />
+            <element signature="e#676#1259#0" />
+            <element signature="e#686#1253#0" />
+            <element signature="e#707#783#0" />
+            <element signature="e#806#882#0" />
+            <element signature="e#906#950#0" />
+            <element signature="e#970#1012#0" />
+            <element signature="e#1030#1072#0" />
+            <element signature="e#1095#1172#0" />
+            <element signature="e#1199#1243#0" />
+            <element signature="e#1276#1895#0" />
+            <element signature="e#1286#1889#0" />
+            <element signature="e#1308#1384#0" />
+            <element signature="e#1406#1482#0" />
+            <element signature="e#1510#1586#0" />
+            <element signature="e#1606#1648#0" />
+            <element signature="e#1666#1708#0" />
+            <element signature="e#1731#1808#0" />
+            <element signature="e#1835#1879#0" />
+            <element signature="e#1909#2195#0" />
+            <element signature="e#1928#1964#0" />
+            <element signature="e#1983#2019#0" />
+            <element signature="e#2039#2075#0" />
+            <element signature="e#2095#2131#0" />
+            <element signature="e#2152#2188#0" />
+            <element signature="e#2207#2260#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/api/profile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -1243,62 +1118,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/Profile.js">
+    <entry file="file://$PROJECT_DIR$/client/src/actions/postActions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="116" column="3" lean-forward="true" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
-          <folding>
-            <element signature="e#133#198#0" />
-            <element signature="e#212#281#0" />
-            <element signature="e#296#324#0" />
-            <element signature="e#339#367#0" />
-            <element signature="e#383#411#0" />
-            <element signature="e#425#477#0" />
-            <element signature="e#491#545#0" />
-            <element signature="e#556#608#0" />
-            <element signature="e#630#658#0" />
-            <element signature="e#676#1259#0" />
-            <element signature="e#686#1253#0" />
-            <element signature="e#707#783#0" />
-            <element signature="e#806#882#0" />
-            <element signature="e#906#950#0" />
-            <element signature="e#970#1012#0" />
-            <element signature="e#1030#1072#0" />
-            <element signature="e#1095#1172#0" />
-            <element signature="e#1199#1243#0" />
-            <element signature="e#1276#1895#0" />
-            <element signature="e#1286#1889#0" />
-            <element signature="e#1308#1384#0" />
-            <element signature="e#1406#1482#0" />
-            <element signature="e#1510#1586#0" />
-            <element signature="e#1606#1648#0" />
-            <element signature="e#1666#1708#0" />
-            <element signature="e#1731#1808#0" />
-            <element signature="e#1835#1879#0" />
-            <element signature="e#1909#2195#0" />
-            <element signature="e#1928#1964#0" />
-            <element signature="e#1983#2019#0" />
-            <element signature="e#2039#2075#0" />
-            <element signature="e#2095#2131#0" />
-            <element signature="e#2152#2188#0" />
-            <element signature="e#2207#2260#0" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/profiles/Profiles.js">
+    <entry file="file://$PROJECT_DIR$/client/src/actions/authActions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2240">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="-920">
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1317,33 +1148,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/actions/profileActions.js">
+    <entry file="file://$PROJECT_DIR$/client/src/components/profiles/Profiles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3340">
-          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/actions/postActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/actions/authActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-920">
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/keys.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
